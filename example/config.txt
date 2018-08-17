@@ -1,0 +1,2 @@
+Prefix plugins/SPIECEASI/example/
+Plugin SPIECEASI inputfile amgut1.csv outputfile amgut1.spieceasi.csv
