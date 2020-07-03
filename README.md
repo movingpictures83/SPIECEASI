@@ -1,8 +1,9 @@
 # SPEICEASI
 # Language: R
-# Dependency: Requires devtools and SpeicEasi (run install_github("zdk123/SpiecEasi")) 
 # Input: CSV (abundance matrix)
 # Output: CSV (relationships)
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: SpiecEasi_1.0.7
 
 PluMA plugin that runs the SPIEC-EASI (Kurtz et al. 2015) method to infer
 ecological relationships.
